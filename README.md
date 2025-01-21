@@ -16,14 +16,6 @@ This repository showcases an interactive Tableau dashboard comparing two footbal
 
 ---
 
-## 📊 Dashboard Preview
-
-![Sport Series Dashboard](images/sport_series_dashboard.png)
-
-👉 **[Explore the Interactive Dashboard](https://adil-14.github.io/Sport-Series/)**
-
----
-
 ## 🔧 Tools Used
 - **Tableau:** For creating the dashboard and visualizations.
 - **GitHub Pages:** For hosting the interactive dashboard.
